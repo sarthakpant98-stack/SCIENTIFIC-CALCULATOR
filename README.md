@@ -1,2 +1,3 @@
 # SCIENTIFIC-CALCULATOR
-This is my first GIT repository
+This is my first GIT repository.
+Author - MOSFET
